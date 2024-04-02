@@ -1,11 +1,11 @@
 ---
 title: "DBEst: Revisiting approximate query processing engines with machine learning models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-sigmod
 excerpt: 'AQP Engine.'
-date: 2009-7-01
+date: 2019-7-01
 venue: 'Proceedings of the 2019 International Conference on Management of Data (SIGMOD 2019)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://wrap.warwick.ac.uk/115961/7/WRAP-DBEst-revisiting-approximate-query-processing-engines-machine-learning-models-Triantafillou-2019.pdf'
 citation: 'Ma, Qingzhi, and Peter Triantafillou. "Dbest: Revisiting approximate query processing engines with machine learning models." In Proceedings of the 2019 International Conference on Management of Data, pp. 1553-1570. 2019.'
 ---
 
