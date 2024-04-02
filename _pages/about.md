@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Research Interest
-======
+
 * Database Systems, Machine Learning, Deep Learning
 * Approximate Query Processing
 
