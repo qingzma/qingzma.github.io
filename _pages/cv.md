@@ -23,6 +23,9 @@ Education
 
 Work experience
 ======
+* 2023-Now: Lecturer(苏州大学优秀青年学者)
+  * 苏州大学计算机学院
+
 * 2022-2023: Engineer (腾讯技术大咖)
   * Tencent
   * Duties includes: Data Analysis, Games
