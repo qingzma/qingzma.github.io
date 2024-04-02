@@ -46,4 +46,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 学生社团指导老师
+   * 参加2023开放原子开发者大会 https://scst.suda.edu.cn/7e/69/c11202a556649/page.htm
+
+Awards
+======
+* 2024. 苏州大学计算机科学与技术学院沃柯雷克奖教金
+* 2023. 2023开放原子校源行年度开源社团、2023开放原子校源行社团优秀开源活动
+* 2022. 腾讯公共数据平台部GM闪电奖
+* 2019. ACM Student Travel Award
+
