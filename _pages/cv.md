@@ -9,37 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+* Database Systems, Machine Learning, Deep Learning
+* Approximate Query Processing
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Warwick, UK, 2021
+* MSc in Data Science, University of Glasgow, UK, 2017
+* MSc in Nuclear Science and Engineering, Imperial College London, UK, 2015
+* B.S. in Nuclear Science and Technology, Xi'an Jiaotong University, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2023: Engineer (腾讯技术大咖)
+  * Tencent
+  * Duties includes: Data Analysis, Games
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2015: Assistant Engineer
+  * China Nuclear Power Engineering Co., Ltd.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
