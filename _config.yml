@@ -21,7 +21,7 @@ repository               : "qingzma/qingzma.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Qingzhi(Quincy) Ma"
   pronouns         : # example: "she/her"  
   bio              : "Key Information"
